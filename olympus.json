@@ -24,7 +24,9 @@
     "cyanBright": "#F0C040",
     "white": "#EAE4CA",
     "whiteBright": "#EAE4CA",
-    "cursor": "#6B2128"
+    "cursor": "#6B2128",
+    "burgundy": "#481324",
+    "teal": "#43B6C3"
   },
   "theme": {
     "primary": {
@@ -208,20 +210,20 @@
       "light": "fgIntense"
     },
     "syntaxString": {
-      "dark": "fg",
-      "light": "fg"
+      "dark": "white",
+      "light": "whiteBright"
     },
     "syntaxNumber": {
       "dark": "magentaBright",
       "light": "magentaBright"
     },
     "syntaxType": {
-      "dark": "cyan",
-      "light": "cyanBright"
+      "dark": "teal",
+      "light": "teal"
     },
     "syntaxOperator": {
-      "dark": "blue",
-      "light": "blueBright"
+      "dark": "burgundy",
+      "light": "burgundy"
     },
     "syntaxPunctuation": {
       "dark": "white",
