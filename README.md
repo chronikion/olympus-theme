@@ -1,35 +1,54 @@
-# Olympus — OpenCode Theme
+# Olympus Theme
 
-A **Hermes Agent** inspired custom theme for the [OpenCode](https://opencode.ai) TUI.
+Olympus is a **Hermes Agent** inspired dark mode theme with golden highlights and green mid tones. It's easy to read, beloved daily driver that I use every day in every interface.
 
-## Palette
+---
 
-| Role    | Hex       | Description          |
-|---------|-----------|----------------------|
+## OpenCode
+
+### Palette
+
+| Role       | Hex       | Description          |
+|------------|-----------|----------------------|
 | Background | `#141416` | Very dark grey       |
-| Panel      | `#131316` | Dark grey midground   |
-| Element    | `#19191D` | Elevated surfaces     |
-| Foreground | `#0A9628` | Terminal green        |
-| Muted      | `#E7AD00` | Faded gold/amber      |
-| Bright     | `#FFF8DC` | Cornsilk highlights   |
-| Primary    | `#4DD0E1` | Cyan interactive      |
-| Accent     | `#FFBF00` | Yellow highlights     |
-| Error      | `#EF5350` | Red                   |
+| Panel      | `#131316` | Dark grey midground  |
+| Element    | `#19191D` | Elevated surfaces    |
+| Foreground | `#0A9628` | Green mid tones      |
+| Muted      | `#E7AD00` | Faded gold/amber     |
+| Primary    | `#4DD0E1` | Cyan interactive     |
+| Accent     | `#FFBF00` | Golden highlights    |
 
-## Installation
+### Install
 
 ```bash
 mkdir -p ~/.config/opencode/themes
-cp hermes-agent.json ~/.config/opencode/themes/
+cp olympus.json ~/.config/opencode/themes/
 ```
 
-Then set it in `~/.config/opencode/tui.json`:
+Set theme in `~/.config/opencode/tui.json`:
 
 ```json
 {
-  "theme": "hermes-agent"
+  "theme": "olympus"
 }
 ```
 
-Or select it at runtime with `/theme` in the OpenCode TUI.
+Or select at runtime with `/theme` in the OpenCode TUI.
 
+---
+
+## Konsole
+
+### Files
+
+- `Hermes Agent.colorscheme` — base scheme
+- `HermesAgentWarm.colorscheme` — warm variant  
+- `Hermes.profile` — profile with font and cursor config
+
+### Install
+
+```bash
+cp "Hermes Agent.colorscheme" HermesAgentWarm.colorscheme Hermes.profile ~/.local/share/konsole/
+```
+
+Then select **Hermes** profile in Konsole → Settings → Manage Profiles.
