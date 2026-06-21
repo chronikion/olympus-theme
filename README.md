@@ -10,7 +10,7 @@ Olympus is a **Hermes Agent** inspired dark mode theme with golden highlights an
 
 | Role       | Hex       | Description          |
 |------------|-----------|----------------------|
-| Background | `#141416` | Very dark grey       |
+| Background | transparent | Inherits terminal (Konsole 20% opacity) |
 | Panel      | `#131316` | Dark grey midground  |
 | Element    | `#19191D` | Elevated surfaces    |
 | Foreground | `#0A9628` | Green mid tones      |

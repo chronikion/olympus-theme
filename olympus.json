@@ -64,8 +64,8 @@
       "light": "fgFaint"
     },
     "background": {
-      "dark": "bg",
-      "light": "bg"
+      "dark": "none",
+      "light": "none"
     },
     "backgroundPanel": {
       "dark": "bgPanel",
