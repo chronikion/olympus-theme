@@ -196,8 +196,8 @@
       "light": "blackBright"
     },
     "syntaxKeyword": {
-      "dark": "blue",
-      "light": "blueBright"
+      "dark": "magenta",
+      "light": "magentaBright"
     },
     "syntaxFunction": {
       "dark": "yellow",
