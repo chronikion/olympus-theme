@@ -196,16 +196,16 @@
       "light": "blackBright"
     },
     "syntaxKeyword": {
-      "dark": "fg",
-      "light": "fgIntense"
+      "dark": "blue",
+      "light": "blueBright"
     },
     "syntaxFunction": {
       "dark": "yellow",
       "light": "yellowBright"
     },
     "syntaxVariable": {
-      "dark": "blue",
-      "light": "blueBright"
+      "dark": "fg",
+      "light": "fgIntense"
     },
     "syntaxString": {
       "dark": "fg",
