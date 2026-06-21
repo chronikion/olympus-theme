@@ -33,6 +33,3 @@ Then set it in `~/.config/opencode/tui.json`:
 
 Or select it at runtime with `/theme` in the OpenCode TUI.
 
-## Credits
-
-Based on the Hermes Agent color scheme for Konsole by @chronikion.
