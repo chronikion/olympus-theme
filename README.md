@@ -18,6 +18,11 @@ Olympus is a **Hermes Agent** inspired dark mode theme with golden highlights an
 | Primary    | `#4DD0E1` | Cyan interactive     |
 | Accent     | `#FFBF00` | Golden highlights    |
 
+### Showcase
+
+![Olympus Theme - OpenCode Session](screenshots/1.png)
+![Olympus Theme - OpenCode Launch Screen](screenshots/2.png)
+
 ### Install
 
 ```bash
