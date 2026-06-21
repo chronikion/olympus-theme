@@ -1,6 +1,6 @@
 # Hermes Agent — OpenCode Theme
 
-A **Hermes Agent** inspired custom theme for the [OpenCode](https://opencode.ai) TUI, adapted from the Konsole color scheme of the same name.
+A **Hermes Agent** inspired custom theme for the [OpenCode](https://opencode.ai) TUI.
 
 ## Palette
 
