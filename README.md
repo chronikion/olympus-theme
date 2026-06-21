@@ -1,4 +1,4 @@
-# Hermes Agent — OpenCode Theme
+# Olympus — OpenCode Theme
 
 A **Hermes Agent** inspired custom theme for the [OpenCode](https://opencode.ai) TUI.
 
